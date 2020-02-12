@@ -1,6 +1,6 @@
 ---
 title: "Practice.Rmd"
-author: "Marie"
+author: "Marie Marie"
 date: "12/02/2020"
 output: html_document
 ---
